@@ -13,7 +13,7 @@ Control de gastos es un sistema destinado a mantener un control en los gastos di
 * Ver grafico de los limites de gastos.
 * Ver graficos de la comparativa de consumo por mes en las diferentes categorias. 
 
-### Installing
+### Instalación
 
 * Se debera descargar el proyecto completo.
 * Cargar la base de datos (gastos.db).
