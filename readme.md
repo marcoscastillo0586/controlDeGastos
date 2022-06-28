@@ -17,4 +17,4 @@ Control de gastos es un sistema destinado a mantener un control en los gastos di
 
 * Se debera descargar el proyecto completo.
 * Cargar la base de datos (gastos.db).
-* Copiar y pegar el proyecto en el servidor (pegar en htdocs en caso de xampp). # controlDeGastos
+* Subir el proyecto en el servidor (pegar en htdocs en caso de xampp). # controlDeGastos
